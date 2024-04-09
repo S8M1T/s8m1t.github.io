@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>s8m1t.xyz</title>
+    <link>https://s8m1t.xyz/</link>
+    <description>Recent content on s8m1t.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Apr 2024 09:39:36 +0530</lastBuildDate>
+    <atom:link href="https://s8m1t.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://s8m1t.xyz/contact/</link>
+      <pubDate>Tue, 09 Apr 2024 09:39:36 +0530</pubDate>
+      <guid>https://s8m1t.xyz/contact/</guid>
+      <description>Here are some options to contact me. Signal is preferred.&#xA;Sorry, I&amp;rsquo;m not on any of your favorite social media platforms simply because I don&amp;rsquo;t want to be spied on.&#xA;🔒 Signal: s8m1t.443&#xA;📧 Email: chandan@s8m1t.xyz&#xA;Must be PGP encrypted or I won’t respond. PGP fingerprint: C6A518612CD7C42E28B4005C5071828FE3E9E5F8 🔑 PGP Key: Click here</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://s8m1t.xyz/about/</link>
+      <pubDate>Tue, 09 Apr 2024 08:23:32 +0530</pubDate>
+      <guid>https://s8m1t.xyz/about/</guid>
+      <description>Hi! I&amp;rsquo;m SUMIT 👋 Link to heading Welcome to my corner of the internet Link to heading Years ago I started my privacy journey after discovering how invasive companies are and how much spyware we use in our everyday lives. I made it my goal to become as private as possible, and that has led me to learning things like Linux, Monero, security, and self-hosting.&#xA;I believe in freedom. Freedom of speech, freedom of ideas, freedom of communication, and freedom of transacting.</description>
+    </item>
+  </channel>
+</rss>
